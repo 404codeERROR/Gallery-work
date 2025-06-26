@@ -10,7 +10,10 @@ Showcasing visuals with smooth transitions, clean layout, and modern flair.
 - 🔧 Easy to customize
 
 ## 💡 Preview
-*(Add a link or screenshot here)*
+![image](https://github.com/user-attachments/assets/908ce438-7f7f-4ee0-afe0-411e93ce835b)
+
+👉 [Click here to visit the live gallery](https://404codeerror.github.io/Gallery-work/)
+
 
 ## 🛠️ Tech Stack
 - HTML5
